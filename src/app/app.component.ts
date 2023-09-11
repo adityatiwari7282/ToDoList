@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angluar';
+  constructor(){
+
+    // setTimeout(() => {
+    //   this.title="aa_ddiii";
+    // }, 2000);
+
+
+  }
 }
